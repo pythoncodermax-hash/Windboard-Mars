@@ -25,6 +25,14 @@ Fusion 360 was a bigger challenge as i had to remake the case a few times to adj
 
 Overall i like the project and i can definitely see it being useful in future projects such as potentially building a fully custom keyboard as my current one is getting old.
 
+Navigating the Repository:
+The Cad, Firmware and PCB folder are just overviews of the project and are ways to view what it looks like.
+The production folder contains everything that needs to be 3D printed, Manufactured and the firmware which is the same as in the Firmware folder.
+
+Tip:
+When making the PCB watch the video linked to the Hackpad tutorial on Matrix wiring, it is really good and showed me how to do it.
+
+
 
 
 <img width="666" height="477" alt="Screenshot 2026-06-20 at 4 39 20 pm" src="https://github.com/user-attachments/assets/9065fa8a-b059-4cc1-bc7a-98a0267bacaf" />
