@@ -3,6 +3,30 @@ Here is my custom Hackpad for windows shortcuts
 
 This is my first time working with Ki Cad but overall i found it good.
 
+It is a 9 button keyboard with macros assigned to each key and also an oled which will display some moving pixels.
+
+The macros on the buttons are:
+1. Alt F4
+2. Quick Link, Win + X
+3. Opens Chrome
+4. Win + D, minimises applications
+5. Undo delete Tab
+6. Open Github
+7. Open VS Code
+8. Lock Screen
+9. Opens Steam
+
+For the oled so far i have just made some dots which slowly disapear out of frame until their is none.
+
+Experience:
+
+I had never used Ki cad before making a Hackpad but i found it easy to use after watching a video and following the turorial.
+Fusion 360 was a bigger challenge as i had to remake the case a few times to adjust dimensions but because i had some previous experience it was fun to do. I used KMK for the firmware and i found it pretty straight forward to use however i will have to test it out once i build the board as i am unsure how to test it. I will update this repository once i am finished building the physical Windboard.
+
+Overall i like the project and i can definitely see it being useful in future projects such as potentially building a fully custom keyboard as my current one is getting old.
+
+
+
 <img width="666" height="477" alt="Screenshot 2026-06-20 at 4 39 20 pm" src="https://github.com/user-attachments/assets/9065fa8a-b059-4cc1-bc7a-98a0267bacaf" />
 
 Here is the CAD design made in Fusion 360 to show what the Windboard would look like.
