@@ -1,1 +1,3 @@
 This is the firmware for the Windboard, it was made in KMK using python. I still have to test it so i may update it.
+
+The KMK is for keyboard only and the new folder is for QMK and supports the keyboard as well as the OLED display.
