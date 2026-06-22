@@ -32,14 +32,18 @@ The production folder contains everything that needs to be 3D printed, Manufactu
 Tip:
 When making the PCB watch the video linked to the Hackpad tutorial on Matrix wiring, it is really good and showed me how to do it.
 
+Latest Update:
+I have decided to switch to QMK as it has better documentation for OLEDS. So today i switched all my code from KMK to QMK and it honestly wasnt that bad. I will not that when i first tried on mac i found it hard to install but windows seemed like a better option. The documentation is good but i will also shoutout 
+theseagulldevs as he had a similar setup to me and looking at his code as well as the documentation helped me understand how the whole thing worked. Hopefully the code works now so we will see when the Windboard is assembled.
 
 
 
-<img width="666" height="477" alt="Screenshot 2026-06-20 at 4 39 20 pm" src="https://github.com/user-attachments/assets/9065fa8a-b059-4cc1-bc7a-98a0267bacaf" />
+
+<img width="700" height="477" alt="Screenshot 2026-06-20 at 4 39 20 pm" src="https://github.com/user-attachments/assets/9065fa8a-b059-4cc1-bc7a-98a0267bacaf" />
 
 Here is the CAD design made in Fusion 360 to show what the Windboard would look like.
 
-<img width="666" height="477" alt="Screenshot 2026-06-20 at 4 39 30 pm" src="https://github.com/user-attachments/assets/b44d0b65-0f27-473b-a02a-8dfdd5f315b7" />
+<img width="700" height="477" alt="Screenshot 2026-06-20 at 4 39 30 pm" src="https://github.com/user-attachments/assets/b44d0b65-0f27-473b-a02a-8dfdd5f315b7" />
 
 Here is a side on view.
 
