@@ -63,6 +63,7 @@ Here is the PCB design.
 
 This is the schematic that was used to design the PCB.
 
-
+<img width="1418" height="1035" alt="Screenshot 2026-06-23 202651" src="https://github.com/user-attachments/assets/c0adf91e-5ae5-47ae-9f22-bfdffb431987" />
+This is the full design in fusion 360 with the colour blue for the case as that is the colour it will be 3D printed.
 
 
