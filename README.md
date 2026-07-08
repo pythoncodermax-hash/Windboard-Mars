@@ -66,4 +66,12 @@ This is the schematic that was used to design the PCB.
 <img width="1418" height="1035" alt="Screenshot 2026-06-23 202651" src="https://github.com/user-attachments/assets/c0adf91e-5ae5-47ae-9f22-bfdffb431987" />
 This is the full design in fusion 360 with the colour blue for the case as that is the colour it will be 3D printed.
 
+Bill Of Materials:
+1. 9x Cherry MX switches
+2. 9x DSA keycaps
+3. 1x 0.91" 128x32 OLED Display
+4. 9x 1N4148 DO-35 Diodes
+5. XIAO RP2040
+6. 1x case (2 3d printed parts
+
 
