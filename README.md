@@ -75,11 +75,11 @@ This is the full design in fusion 360 with the colour blue for the case as that 
 <li>9x Cherry MX switches </li>
 <li>9x DSA keycaps</li> 
 <li>1x 0.91" 128x32 OLED Display</li>
-4. 9x 1N4148 DO-35 Diodes
-5. XIAO RP2040
-6. 1x case (2 3d printed parts
-7. 4x M3x16mm SHCS Bolts
-8. x M3x5x4 Heatset inserts
+<li>9x 1N4148 DO-35 Diodes</li>
+<li>XIAO RP2040</li>
+<li>1x case (2 3d printed parts</li> 
+<li>4x M3x16mm SHCS Bolts</li>
+<li>4x M3x5x4 Heatset inserts</li>
 </ol>
 
 
