@@ -73,5 +73,7 @@ Bill Of Materials:
 4. 9x 1N4148 DO-35 Diodes
 5. XIAO RP2040
 6. 1x case (2 3d printed parts
+7. 4x M3x16mm SHCS Bolts
+8. x M3x5x4 Heatset inserts
 
 
